@@ -54,3 +54,5 @@ Sender and receiver balance changes
 Logical inconsistencies
 
 The model was serialized using Joblib and integrated into this Streamlit app for real-time predictions.
+
+🧾dataset URL : https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
